@@ -1,5 +1,3 @@
-# Project: Disk-Scan-Simulation
-
 CXX = g++
 CXXFLAGS = -g3 -std=c++11 -Wall -Wextra -Iinclude -D__DEBUG__
 
